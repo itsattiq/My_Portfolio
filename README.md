@@ -1,2 +1,2 @@
 # My_Portfolio
-Starting a new portfolio with HTML and CSS
+Starting my first portfolio with HTML and CSS
